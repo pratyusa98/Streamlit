@@ -14,5 +14,10 @@ Streamlit lets you turn data scripts into sharable web apps in minutes, not week
     ```bash
     streamlit run app.py
 
-- Here I am upload all basic of Streamlit and also doing two projects(Car_Price_Prediction And CatvsDog Prediction)
+- Here I am upload all basic of Streamlit and also doing two projects(Car_Price_Prediction And CatvsDog_Prediction)
 
+### Car_Price_Prediction
+![Car_Price_Prediction](img/1.png)
+
+### CatvsDog_Prediction
+![CatvsDog_Prediction](img/2.PNG)
