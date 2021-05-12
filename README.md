@@ -9,7 +9,7 @@ Streamlit lets you turn data scripts into sharable web apps in minutes, not week
 
 - Install dependencies
     ```txt
-    pip3 install -r requirements.txt
+    pip install streamlit
     ```
 - Run the app on your local machine
     ```bash
